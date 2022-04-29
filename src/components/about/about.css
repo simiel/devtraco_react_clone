@@ -1,0 +1,28 @@
+.aboutComp{
+    margin: 20px auto;
+}
+
+
+.histories{
+    display: flex;
+    width: 850px;
+    margin: auto;
+    padding: 5px;
+}
+
+.historyTab{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.histText{
+    text-align: left;
+}
+
+.aim{
+    display: flex;
+    width: 850px;
+    margin: auto;
+    padding: 5px;
+}

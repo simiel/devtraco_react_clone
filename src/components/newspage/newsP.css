@@ -1,0 +1,37 @@
+.news{
+    padding: 60px 60px;
+    height: auto;
+}
+
+.newsHeader{
+    color: #1c428b;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 10px;
+    justify-content: space-between;
+}
+
+.itemsP{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+}
+
+.newsItem{
+    margin-right: 20px;
+    width: 320px;
+}
+
+.newsImage{
+
+}
+
+.newsTitle{
+    color: #1c428b;
+    padding: 5px 20px;
+}
+
+.newsLink{
+    padding: 5px 20px;
+}
